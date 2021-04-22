@@ -1,3 +1,3 @@
 ## Resume of Wangziheng
 
-[link](https://poptter.github.io/onovo-resume/index.html)
+[link](https://github.com/manni520/personal-resume/blob/main/index.html)
