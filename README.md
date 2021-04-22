@@ -1,3 +1,3 @@
 ## Resume of Wangziheng
 
-[link](https://htmlpreview.github.io/?https://github.com/personal-resume/blob/main/index.html)
+[link](https://manni520.github.io/personal-resume/blob/main/index.html)
